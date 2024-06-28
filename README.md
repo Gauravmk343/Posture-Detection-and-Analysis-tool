@@ -1,1 +1,2 @@
 # Posture-Detection-tool
+A posture detection tool was built using flex sensors and Arduino Uno board. The Flex sensors detect bending angles and we used this to detect the posture of the user. The flex sensor data is stored in a SD card. The SD card can be unmounted and its data can be given to the python application designed here. It will generate graphs and pie charts of the individuals posture. 
